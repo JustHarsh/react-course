@@ -15,8 +15,8 @@ Course contents -
 - memo-useMemo-useCallback
 
 
-
-* All folders named **'final'** are finished code files given by the instructor for reference.
+# Basic Course Structure
+All folders named **'final'** are finished code files given by the instructor for reference.
 The learning takes place in the **'setup'** folder.
 
 Course can be found [here](https://www.youtube.com/watch?v=4UZrsTqkcW4).
